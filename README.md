@@ -1,6 +1,6 @@
 ### Hi, I'm Samuele 👋
 
-##### I'm an Electronic engineer actually situated in Genoa, Italy. I'm attending the last year of [Robotics Engineering](https://courses.unige.it/10635).
+#### I'm an Electronic engineer actually situated in Genoa, Italy. I'm attending the last year of [Robotics Engineering](https://courses.unige.it/10635).
 
 - 🔭 I’m currently attending at Robotics Engineering in the University of Genoa.
 - 🎓 I graduated in Electronic engineering and information technologies in Genoa University, July 2021 ([my bachelor degree](https://corsi.unige.it/corsi/9273)).
@@ -9,7 +9,7 @@
 - 💬 Goals: Apply for internships and study or employment abroad opportunities, discover and learn more new things concerning to my field of knowledge.
 - ⚡ Fun fact: I love swimming, playing tennis, be sporty and traveling.
 
-### 📫 How to reach me: 
+#### 📫 How to reach me: 
 
 <a href="mailto:sampedra@tiscali.it" >
   <img align="left" alt="Samu's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155858734-8c5b7dfb-a6c8-4398-a618-82b40714c772.png" />
@@ -31,6 +31,6 @@
 <br />
 <br />
 
-### Stats:
+#### Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelepedrazzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
