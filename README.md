@@ -12,7 +12,7 @@
 #### 📫 How to reach me: 
 
 <a href="mailto:sampedra@tiscali.it" >
-  <img align="left" alt="Samu's mail" width="40px" src="https://user-images.githubusercontent.com/81308076/155858734-8c5b7dfb-a6c8-4398-a618-82b40714c772.png" />
+  <img align="left" alt="Samu's mail" width="40px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
 </a>  
 
 <a href="mailto:samupedra@gmail.com" >
