@@ -30,6 +30,9 @@
   <img align="left" alt="Samu's mail" width="40px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
 </a>  
 
+<a href="www.linkedin.com/in/samuele-pedrazzi-95278a256" >
+  <img align="left" alt="Samu's Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>  
 
 
 <br />
