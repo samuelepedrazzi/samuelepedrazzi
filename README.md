@@ -26,13 +26,15 @@
 <img align="left" alt="Samu's Instagram" width="40px" src="https://user-images.githubusercontent.com/81308076/155858773-5efb3fe2-cdac-4722-99ff-8348e75a6a27.png" />
 </a>  
 
+<a href="www.linkedin.com/in/samuele-pedrazzi-95278a256" >
+  <img align="left" alt="Samu's Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>  
+
 <a href="mailto:sampedra@tiscali.it" >
   <img align="left" alt="Samu's mail" width="40px" src="https://www.iconpacks.net/icons/1/free-mail-icon-142-thumb.png" />
 </a>  
 
-<a href="www.linkedin.com/in/samuele-pedrazzi-95278a256" >
-  <img align="left" alt="Samu's Linkedin" width="40px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>  
+
 
 
 <br />
